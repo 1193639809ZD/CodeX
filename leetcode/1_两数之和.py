@@ -1,3 +1,8 @@
+# @before-stub-for-debug-begin
+from python3problem1 import *
+from typing import *
+# @before-stub-for-debug-end
+
 #
 # @lc app=leetcode.cn id=1 lang=python3
 #
@@ -17,3 +22,10 @@ class Solution:
 
 
 # @lc code=end
+
+# nums = [2, 7, 11, 15], target = 9
+
+[3, 2, 4]
+6
+
+# nums = [3,3], target = 6
